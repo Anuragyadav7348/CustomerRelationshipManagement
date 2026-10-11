@@ -1,0 +1,14 @@
+# Build files
+target/
+
+# IntelliJ files
+.idea/
+*.iml
+
+# Environment and secret files
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
